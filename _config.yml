@@ -5,3 +5,5 @@ title: ZhaoJinHao's design
 description: Bookmark this to keep an eye on my project updates!
 url: https://murisans.github.io
 baseurl: /zhaojinhao.design
+kramdown:
+  hard_wrap: true
